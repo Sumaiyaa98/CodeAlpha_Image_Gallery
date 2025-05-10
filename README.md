@@ -10,6 +10,7 @@ This is a responsive photo gallery website built using HTML and CSS. It is a tas
 ## Technologies Used
 - HTML5
 - CSS3
+- JavaScript
 - Google Fonts
 
 ## Demo
