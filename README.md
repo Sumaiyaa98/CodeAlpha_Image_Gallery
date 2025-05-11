@@ -14,7 +14,7 @@ This is a responsive photo gallery website built using HTML and CSS. It is a tas
 - Google Fonts
 
 ## Demo
-[Live Site]()
+[Live Site](https://image-gallery-code-alpha.netlify.app/)
 
 
 ## Author
